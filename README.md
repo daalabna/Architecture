@@ -8,7 +8,7 @@
 ## DDD
 - [Доклад Евгения Бондаренко на FrontendConf 2024](https://www.youtube.com/watch?v=VbqFrKYyRno)
 - Книга "Domain-Driven Design: Tackling Complexity in the Heart of Software" Эрика Эванса
-- [DDD ообщество](https://github.com/ddd-cqrs-es/community)
+- [DDD cообщество](https://github.com/ddd-cqrs-es/community)
 
 ## Atomic Design
 - [Книга "Atomic Design" от основателя подхода Брэда Фроста](https://atomicdesign.bradfrost.com/)
