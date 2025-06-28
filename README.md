@@ -1,7 +1,7 @@
 # Полезные материалы
 
 ## FSD
-- [Документация]((https://feature-sliced.design/docs/get-started/overview))
+- [Документация](https://feature-sliced.design/docs/get-started/overview)
 - [Доклад Саши Моргунова на HolyJS 2025](https://www.youtube.com/watch?v=H_rJ0zB8rqc)
 - [Статья Саши Моргунова про кросс-импорты](https://amorgunov.com/posts/2025-05-20-how-solve-cross-imports/)
 
